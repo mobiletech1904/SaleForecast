@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_table"
+        android:icon="@drawable/ic_table_black_24dp"
+        android:title="@string/title_notifications_table" />
+
+    <item
+        android:id="@+id/navigation_graph"
+        android:icon="@drawable/ic_graph_black_24dp"
+        android:title="@string/title_navigation_graph" />
+</menu>

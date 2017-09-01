@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Прогноз продажів</string>
+    <string name="title_activity_result">Прогноз продажів</string>
+
+    <string name="title_navigation_home">Головна</string>
+    <string name="title_navigation_settings">Довідка</string>
+
+    <string name="title_navigation_graph">Графік прогнозу</string>
+    <string name="title_notifications_table">Таблиця даних</string>
+
+    <string name="table_title_timed">Одиниця часу</string>
+    <string name="table_title_incoming">Зайшли на сайт</string>
+    <string name="table_title_purchases">Купили товар</string>
+</resources>
